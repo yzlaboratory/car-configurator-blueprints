@@ -1,2 +1,2 @@
 # car-configurator-design
-Design files to plan out thos small tech interview project
+Design files to plan out this small tech interview project

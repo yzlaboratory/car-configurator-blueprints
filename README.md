@@ -21,7 +21,8 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 - add integration tests
 
 ## api-*
-- reducde duplicate code (possibly entities) by creating library
+- reduce duplicate code (possibly entities) by creating library
+- streamline errors by adding ui messages by creating a library
 
 ## frontend
 - everything

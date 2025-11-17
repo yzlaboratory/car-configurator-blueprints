@@ -29,7 +29,8 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 
 ## infra
 - Grafana Stack for Monitoring is not configured yet
-- productio environment is not configured yet
+- Fargate Sidecars for pushing logs to Grafana not configured yet
+- production environment is not configured yet
 
 ## Possible other improvements
 - Reuse already saved configs

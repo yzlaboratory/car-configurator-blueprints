@@ -7,10 +7,6 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 - integration tests
 
 ## api-config
-- configure db connection
-- setup controller with REST interfaces
-- write business logic, uuid etc
-- add unit tests
 - add integration tests
 
 ## api-orders

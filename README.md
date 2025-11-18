@@ -26,3 +26,5 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 
 ## Possible other improvements
 - Reuse already saved configs
+- SSR
+- Caching

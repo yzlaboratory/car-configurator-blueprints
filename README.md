@@ -10,10 +10,6 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 - add integration tests
 
 ## api-orders
-- connect to sql database
-- setup controller with rest interfaces
-- write business logic
-- add unit tests
 - add integration tests
 
 ## api-*

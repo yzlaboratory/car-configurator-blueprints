@@ -28,3 +28,4 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 - Reuse already saved configs
 - SSR
 - Caching
+- Change Domain

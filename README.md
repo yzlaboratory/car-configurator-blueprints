@@ -17,7 +17,8 @@ I will list todos here since I lack a proper Sprint Board right now. Let's just 
 - streamline errors by adding ui messages by creating a library
 
 ## frontend
-- everything
+- e2E Tests
+- Mobile
 
 ## infra
 - Grafana Stack for Monitoring is not configured yet
